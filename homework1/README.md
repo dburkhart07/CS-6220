@@ -9,4 +9,4 @@ pip install -r requirements.txt
 jupyter notebook homework1.ipynb
 ```
 
-Select **Kernel → Restart Kernel and Run All Cells**. Keep the notebook open from this directory so relative file paths resolve correctly.
+In Jupyter, select **Kernel -> Restart Kernel and Run All Cells**.
